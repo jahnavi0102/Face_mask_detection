@@ -4,7 +4,7 @@ This project predicts whether a person is wearing a face mask or not .
 
 ## Technologies Used
 
-Deep Learning packages - Opencv , Tensorflow , Keras 
+Deep Learning packages - Opencv , Tensorflow , Keras /n 
 Machine Learning packages  - Sklearn , Matplotlib
 Other - Argparse
 
