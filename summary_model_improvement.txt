@@ -1,0 +1,7 @@
+Model 
+   
+   The prediction of the model can be improved by providing the model with the dataset of images of people in group .
+I was unable to do as the dataset with face mask in group were unavailable , but I am working on a program to form fake mask over the faces in group so that I can run the model with those data sets and improve my accuracy as well as it will make the model more sensitive to face mask.
+
+
+   
